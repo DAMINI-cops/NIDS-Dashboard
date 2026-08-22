@@ -1,7 +1,7 @@
 # Data and trained model artifacts — regenerate locally via:
 #   python src/download_data.py
 #   python src/train.py
-data/*.csv
+# data/*.csv
 # models/*.joblib
 
 # Python
